@@ -1,0 +1,4 @@
+2019-04-10 11:53:31 [scrapy.utils.log] INFO: Scrapy 1.4.0 started (bot: Tencent)
+2019-04-10 11:53:31 [scrapy.utils.log] INFO: Overridden settings: {'BOT_NAME': 'Tencent', 'COOKIES_ENABLED': False, 'LOG_ENABLED': False, 'LOG_FILE': 'py21.log', 'NEWSPIDER_MODULE': 'Tencent.spiders', 'SPIDER_MODULES': ['Tencent.spiders']}
+2019-04-10 11:55:52 [scrapy.utils.log] INFO: Scrapy 1.4.0 started (bot: Tencent)
+2019-04-10 11:55:52 [scrapy.utils.log] INFO: Overridden settings: {'BOT_NAME': 'Tencent', 'COOKIES_ENABLED': False, 'LOG_ENABLED': False, 'LOG_FILE': 'py21.log', 'NEWSPIDER_MODULE': 'Tencent.spiders', 'SPIDER_MODULES': ['Tencent.spiders']}
